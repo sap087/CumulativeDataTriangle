@@ -1,0 +1,6 @@
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\bin\Debug\CumulativeDataTriangle.exe.config
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\bin\Debug\CumulativeDataTriangle.exe
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\bin\Debug\CumulativeDataTriangle.pdb
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\obj\Debug\CumulativeDataTriangle.csproj.CoreCompileInputs.cache
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\obj\Debug\CumulativeDataTriangle.exe
+C:\Users\hombals\Downloads\CumulativeDataTriangle\CumulativeDataTriangle - Copy\CumulativeDataTriangle\obj\Debug\CumulativeDataTriangle.pdb
